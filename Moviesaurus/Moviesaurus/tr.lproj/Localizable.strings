@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  Moviesaurus
+
+  Created by Erkam Karaca on 9.08.2022.
+  
+*/
+"popular" = "Popüler";
+"releaseDate" = "Çıkış Tarihi:";
+"imdb" = "IMDB:";
+"search" = "Film ara";
+"favorites" = "Favoriler";
+"genre" = "Tür:";
+"budget" = "Bütçe:";
+"revenue" = "Hasılat:";
+"duration" = "Süre:";
+"productionCompanies" = "Yapım Şirketleri:";
+"originalTitle" = "Orijinal İsim:";
+"homepage" = "Ana Sayfa:";
+"overview" = "Konusu";
+"cast" = "Oyuncu Kadrosu";
+"recommendations" = "Tavsiye Edilenler";
+"minutes" = "dakika";
+"movieNameNotFound" = "Film adı belirtilmemiş";
+"dateNotFound" = "Tarih belirtilmemiş";
+"imdbNotFound" = "IMDB belirtilmemiş";
+"genreNotFound" = "Tür belirtilmemiş";
+"budgetNotFound" = "Bütçe belirtilmemiş";
+"revenueNotFound" = "Hasılat belirtilmemiş";
+"durationNotFound" = "Süre belirtilmemiş";
+"productionCompaniesNotFound" = "Şirket belirtilmemiş";
+"overviewNotFound" = "Üzgünüz, filmin konusu belirtilmemiş.";
+"originalTitleNotFound" = "Orijinal isim belirtilmemiş";
+"homepageNotFound" = "Ana sayfa belirtilmemiş";
+"personNameNotFound" = "Oyuncu adı belirtilmemiş";
+"birthdayNotFound" = "Doğum tarihi belirtilmemiş";
+"deathdayNotFound" = "Ölüm tarihi belirtilmemiş";
+"placeOfBirthNotFound" = "Doğum yeri belirtilmemiş";
+"bioNotFound" = "Biyografi belirtilmemiş";
+"releaseDateNotFound" = "Çıkış tarihi bulunamadı";
+"ratingNotFound" = "Puan belirtilmemiş";
+"usernameNotFound" = "Kullanıcı adı belirtilmemiş";
+"commentNotFound" = "Yorum belirtilmemiş";

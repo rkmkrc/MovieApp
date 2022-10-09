@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Budget:"; ObjectID = "3dl-g2-Z2p"; */
+"3dl-g2-Z2p.text" = "Budget:";
+
+/* Class = "UILabel"; text = "Recommendations"; ObjectID = "FHq-Bz-5yh"; */
+"FHq-Bz-5yh.text" = "Recommendations";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JK9-EU-UnU"; */
+"JK9-EU-UnU.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Popular"; ObjectID = "Jcm-7e-853"; */
+"Jcm-7e-853.title" = "Popular";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "MOF-An-2OV"; */
+"MOF-An-2OV.title" = "Favoriler";
+
+/* Class = "UILabel"; text = "Cast"; ObjectID = "OOd-2F-e6t"; */
+"OOd-2F-e6t.text" = "Cast";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SvD-qb-Ph4"; */
+"SvD-qb-Ph4.text" = "Label";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "UeS-QM-AoE"; */
+"UeS-QM-AoE.text" = "Settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X4N-cA-bQI"; */
+"X4N-cA-bQI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cwK-Wl-z4i"; */
+"cwK-Wl-z4i.text" = "Label";
+
+/* Class = "UILabel"; text = "Duration:"; ObjectID = "fzc-Zi-V1C"; */
+"fzc-Zi-V1C.text" = "Duration:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gSE-eh-RUw"; */
+"gSE-eh-RUw.text" = "Label";
+
+/* Class = "UILabel"; text = "Release Date:"; ObjectID = "gbI-W5-RQK"; */
+"gbI-W5-RQK.text" = "Release Date:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gkK-ha-DhZ"; */
+"gkK-ha-DhZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "hfc-v7-Pi6"; */
+"hfc-v7-Pi6.text" = "Overview";
+
+/* Class = "UILabel"; text = "Revenue:"; ObjectID = "kit-Dc-aa7"; */
+"kit-Dc-aa7.text" = "Revenue:";
+
+/* Class = "UILabel"; text = "Genre:"; ObjectID = "oYS-MX-pud"; */
+"oYS-MX-pud.text" = "Genre:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ri4-4Z-1jk"; */
+"ri4-4Z-1jk.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "rlV-FJ-HgV"; */
+"rlV-FJ-HgV.title" = "Settings";
+
+/* Class = "UILabel"; text = "IMDB:"; ObjectID = "sp3-LC-7YK"; */
+"sp3-LC-7YK.text" = "IMDB:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tTx-Ze-qlB"; */
+"tTx-Ze-qlB.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w4X-Km-jQa"; */
+"w4X-Km-jQa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zUp-5b-5og"; */
+"zUp-5b-5og.text" = "Label";
+
+/* Class = "UILabel"; text = "Production Companies:"; ObjectID = "ztC-IA-WJB"; */
+"ztC-IA-WJB.text" = "Production Companies:";

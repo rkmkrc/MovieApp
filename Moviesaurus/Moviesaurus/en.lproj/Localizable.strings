@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  Moviesaurus
+
+  Created by Erkam Karaca on 9.08.2022.
+  
+*/
+"popular" = "Popular";
+"releaseDate" = "Release Date:";
+"imdb" = "IMDB:";
+"search" = "Search";
+"favorites" = "Favorites";
+"genre" = "Genre:";
+"budget" = "Budget:";
+"revenue" = "Revenue:";
+"duration" = "Duration:";
+"productionCompanies" = "Production Companies:";
+"originalTitle" = "Original Title:";
+"homepage" = "Home Page:";
+"overview" = "Overview";
+"cast" = "Cast";
+"recommendations" = "Recommendations";
+"minutes" = "minutes";
+"movieNameNotFound" = "Movie name not found";
+"dateNotFound" = "Date not found";
+"imdbNotFound" = "IMDB not found";
+"genreNotFound" = "Genre not found";
+"budgetNotFound" = "Budget not found";
+"revenueNotFound" = "Revenue not found";
+"durationNotFound" = "Duration not found";
+"productionCompaniesNotFound" = "Companies not found";
+"overviewNotFound" = "Sorry, overview not found";
+"originalTitleNotFound" = "Original title not found";
+"homepageNotFound" = "Home page not found";
+"personNameNotFound" = "Person name not found";
+"birthdayNotFound" = "Birthday not found";
+"deathdayNotFound" = "Deathday not found";
+"placeOfBirthNotFound" = "Place of birth not found";
+"bioNotFound" = "Bio not found";
+"releaseDateNotFound" = "Release date not found";
+"ratingNotFound" = "Rating not found";
+"usernameNotFound" = "Username not found";
+"commentNotFound" = "Comment not found";
