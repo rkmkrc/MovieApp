@@ -1,5 +1,15 @@
-Moviesaurus is the project that I completed as an iOS Development intern at OBSS during 2022 Summer.
-This project is a basically an IMDB clone.
+### Moviesaurus
+Moviesaurus is the project that I completed as an iOS Development intern at OBSS during 2022 Summer. This project is a basically an IMDB clone.
+
+## Features Implemented
+
+* Localization: The application supports localization, allowing users to experience the app in their preferred language. Localization files have been added to provide translations for different languages.
+* Pagination: The Movie List screen includes pagination, allowing the app to load more movies as the user scrolls.
+* Search Functionality: The Movie Search screen enables users to search for movies by entering a string input. The app retrieves search results from the TMDb API and displays them to the user.
+* Favorite Movies: Users can mark movies as favorites, and the app provides a separate screen where users can view and manage their favorite movies. Clicking on a favorite movie navigates to the Movie Detail screen.
+* Movie Detail: The Movie Detail screen presents detailed information about a selected movie. It includes images, title, release date, ratings, budget, revenue, genres, overview, runtime, production companies, a link to the movie's homepage, and recommendations.
+* Cast Details: The Cast Detail screen provides comprehensive information about a specific cast member. It displays the cast member's name, image, biography, birthday, death day, and place of birth.
+* Generic Functions: Generic functions have been utilized in the project to improve code reusability and flexibility.
 
 <table>
   <tr>
